@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-##Site Running on
-https://5f7ce00df0925000dd584a28--covld19tracker.netlify.app/
+## `Site Running on`
+open [https://5f7ce00df0925000dd584a28--covld19tracker.netlify.app/]
 
 
 ## Available Scripts
